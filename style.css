@@ -1,0 +1,13 @@
+ body{
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ h2 {
+    background-color: black;
+    padding: 20px;
+    color: white;
+    border-radius: 20px;
+ }
